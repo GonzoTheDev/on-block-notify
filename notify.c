@@ -8,7 +8,7 @@
 #include <string.h> 
 #include <sys/socket.h> 
 #define MAX 80 
-#define PORT 14651
+#define PORT 42069
 #define SA struct sockaddr 
 
 int main() 
