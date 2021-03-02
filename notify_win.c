@@ -1,7 +1,7 @@
 #include <winsock2.h>
 #include <stdio.h> 
 #define MAX 80 
-#define PORT 14651
+#define PORT 42069
 
 int main() 
 { 
